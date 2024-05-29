@@ -1,0 +1,45 @@
+element.style {
+}
+.formlist {
+    border: 1px solid #BDC3C7;
+    border-radius: 3px;
+    border-collapse: separate;
+    background-color: #ECF0F1;
+    color: #34495E;
+}
+td, table, p, input, select, textarea, .fullError {
+    font-size: 12px;
+    font-family: arial, helvetica, sans-serif;
+    line-height: 120%;
+}
+table[Attributes Style] {
+    -webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    width: 100%;
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
